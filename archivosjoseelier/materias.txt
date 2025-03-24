@@ -1,0 +1,5 @@
+1. español
+2. ingles
+3. laboratorio de sistemas operativos
+4. laboratorio de sistemas operativos 2
+5. programacion estructurada
